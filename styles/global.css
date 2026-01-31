@@ -4,10 +4,15 @@
   box-sizing: border-box;
 }
 
-body {
+body,
+footer {
   width: 1100px;
   margin: 0 auto;
   font-family: Raleway, sans-serif;
+  font-weight: 400;
+  background-color: white;
+  size: 18px;
+  font-style: normal;
 }
 
 h1,
@@ -27,6 +32,7 @@ blockquote {
 
 a {
   color: inherit;
+  text-decoration: none;
 }
 
 img {
