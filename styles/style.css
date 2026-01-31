@@ -224,7 +224,7 @@ a {
     font-family: Raleway, sans-serif;
     font-weight: 400;
     font-size: 20px;
-    margin-left: 64px;
+    padding-left: 64px;
     margin-top: 30px;
     text-decoration: underline;
     text-underline-position: under;
