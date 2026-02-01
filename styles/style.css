@@ -295,7 +295,7 @@ a {
     margin-top: 160px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    padding: 0px 50px 0 0px; 
+    padding: 0px 50px 0 0px;
     height: 100%;
 }
 
@@ -335,9 +335,3 @@ a {
 .footer__menu-link_active {
   text-decoration: none;
 }
-
-.address__link {
-    text-decoration: underline;
-    text-underline-position: under;
-}
-
