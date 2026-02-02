@@ -84,6 +84,7 @@ a {
 
 
 .aligned-text {
+    display: block;
     font-family: Raleway, sans-serif;
     font-weight: 700;
     font-size: 100px;
@@ -93,19 +94,16 @@ a {
 }
 
 .aligned-text_left {
-    display: block;
     text-align: start;
 }
 
 .aligned-text_center {
-    display: block;
     text-align: center;
     margin-top: 16px;
     margin-right: 19px;
 }
 
 .aligned-text_right {
-    display: block;
     text-align: end;
     margin-top: 19px;
     margin-right: 19px;
@@ -272,14 +270,12 @@ a {
     width: 100%;
     margin-left: 72px;
     margin-top: 98px;
-    
 }
 
 .about__title {
     margin: 0;
     font-size: 40px;
     text-transform: uppercase;
-    
 }
 
 .about__column {
@@ -295,7 +291,7 @@ a {
     margin-top: 160px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    padding: 0px 50px 0 0px;
+    padding: 0px 50px 82px 0px;
     height: 100%;
 }
 
@@ -309,7 +305,6 @@ a {
 .footer__social-icon-image {
     width: 48px;
     height: 48px;
-
 }
 
 .footer__menu {
